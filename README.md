@@ -9,6 +9,7 @@
 | Name | Link | Due date |
 |------|------|----------|
 | Anchor paper worksheet | [open form](https://forms.gle/pisyTPp1XW55vkbYA) | 10/18 |
+| Classifier on Medical MNIST | [open notebook](hw/hwA/demo_template.ipynb) | 10/25 |
 
 
 ## Installing Python packages
